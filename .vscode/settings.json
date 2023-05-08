@@ -1,0 +1,20 @@
+{
+    // "editor.language.brackets": [
+    
+    // ]
+    "emmet.extensionsPath": [
+        ""
+        ],
+        "emmet.triggerExpansionOnTab": true,
+        "emmet.useInlineCompletions": true,
+        "files.associations": {
+        "*html": "html",
+        "*.html": "html",
+        "*.py": "python",
+        "*.css": "css"
+        },
+        "emmet.preferences": {},
+        "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+        },
+}
